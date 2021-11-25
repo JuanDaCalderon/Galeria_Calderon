@@ -1,0 +1,14 @@
+div.carousel.slide{
+    max-height: 500px;
+    div.carousel-inner{
+        max-height: 500px;
+        div.carousel-item{
+            max-height: 500px;
+            img{
+                max-height: 500px;
+                object-fit: cover;
+                object-position: center;
+            }
+        }
+    }
+}
